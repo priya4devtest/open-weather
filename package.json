@@ -1,0 +1,18 @@
+{
+  "name": "open-weather-client",
+  "version": "1.0.0",
+  "description": "client & tests for the open weather api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priya Kesapragada",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "7.1.2",
+    "chai": "4.2.0",
+    "should": "13.2.3",
+    "supertest": "4.0.2",
+    "moment": "2.25.3"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "url": "http://api.openweathermap.org/",
+    "apiTimeout": 20000,
+    "apiKey": "3befe1927233357140abd00ee535cad8",
+    "sydneyCode": "2147714"
+  }
