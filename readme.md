@@ -16,7 +16,7 @@ At the root of the directory
 ### Running tests
 
 You can simply `npm test` or 
-`mocha test/openWeather.test.js`
+`npx mocha .\test\openWeather.api.test.js`
 
 ### Weather API Key
 
